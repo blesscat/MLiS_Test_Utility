@@ -1,0 +1,61 @@
+[18:08:00.996] Listening....192.168.0.196:21000
+[18:08:01.097] Listening....192.168.0.196:21001
+[18:08:01.196] Listening....192.168.0.196:21002
+[18:08:49.447] 21000 Connected by ('49.217.113.228', 53440)
+[18:08:51.447] 21001 Connected by ('49.217.113.228', 53441)
+[18:08:53.447] 21002 Connected by ('49.217.113.228', 53442)
+[18:08:54.958] b'\r\nCONNECTED\r\n'
+[18:08:55.207] b'\r\nCONNECTED\r\n'
+[18:08:55.417] b'\r\nCONNECTED\r\n'
+[18:08:55.419] 21000 Sent 1: b'335.419\x1c\x0b;0031\r\x16.|\x1a\x17', 31bytes
+[18:08:56.136] 21000 Received 0 1: 31bytes_0.726s
+[18:08:56.221] 21000 Sent 2: b'336.221S\x0ct0043\x072(A}t', 43bytes
+[18:08:56.409] 21001 Received 0 1: 31bytes_0.999s
+[18:08:56.617] 21002 Received 0 1: 31bytes_1.21s
+[18:08:57.276] 21000 Received 0 2: 43bytes_1.06s
+[18:08:57.322] 21000 Sent 3: b'337.322V\x11C0038Ov>{v\x12', 38bytes
+[18:08:57.547] 21001 Received 0 2: 43bytes_1.33s
+[18:08:57.766] 21002 Received 0 2: 43bytes_1.55s
+[18:08:58.617] 21000 Received 0 3: 38bytes_1.3s
+[18:08:58.623] 21000 Sent 4: b'338.623<\x06_0036\x1c\\>-\x14D', 36bytes
+[18:08:58.827] 21001 Received 0 3: 38bytes_1.51s
+[18:08:59.086] 21002 Received 0 3: 38bytes_1.77s
+[18:08:59.746] 21000 Received 0 4: 36bytes_1.13s
+[18:08:59.823] 21000 Sent 5: b'339.823^C\x7f0043\x17DX\x1d\x13_', 43bytes
+[18:08:59.966] 21001 Received 0 4: 36bytes_1.35s
+[18:09:00.248] 21002 Received 0 4: 36bytes_1.63s
+[18:09:00.876] 21000 Received 0 5: 43bytes_1.06s
+[18:09:00.924] 21000 Sent 6: b'340.9248bl0033yo\x19\x1b|7', 33bytes
+[18:09:01.096] 21001 Received 0 5: 43bytes_1.28s
+[18:09:01.356] 21002 Received 0 5: 43bytes_1.54s
+[18:09:01.996] 21000 Received 0 6: 33bytes_1.08s
+[18:09:02.025] 21000 Sent 7: b'342.025\x0eg\x190035y+,\x1c8\x19', 35bytes
+[18:09:02.206] 21001 Received 0 6: 33bytes_1.29s
+[18:09:02.466] 21002 Received 0 6: 33bytes_1.55s
+[18:09:03.114] 21000 Received 0 7: 35bytes_1.09s
+[18:09:03.126] 21000 Sent 8: b'343.1261)P0041`\x035\tM\r', 41bytes
+[18:09:03.332] 21001 Received 0 7: 35bytes_1.31s
+[18:09:03.576] 21002 Received 0 7: 35bytes_1.56s
+[18:09:04.227] 21000 Received 0 8: 41bytes_1.11s
+[18:09:04.326] 21000 Sent 9: b'344.326iy|0039\x03\x1fju^`', 39bytes
+[18:09:04.435] 21001 Received 0 8: 41bytes_1.31s
+[18:09:04.698] 21002 Received 0 8: 41bytes_1.58s
+[18:09:05.356] 21000 Received 0 9: 39bytes_1.04s
+[18:09:05.428] 21000 Sent 10: b'345.428tlP0043\x08]5\x15O_', 43bytes
+[18:09:05.566] 21001 Received 0 9: 39bytes_1.25s
+[18:09:05.836] 21002 Received 0 9: 39bytes_1.52s
+[18:09:10.928] 
+21002
+Average : 1.54s                          
+Max : 1.57s                          
+0 message has been missed
+[18:09:10.928] 
+21000
+Average : 1.07s                          
+Max : 1.1s                          
+0 message has been missed
+[18:09:10.928] 
+21001
+Average : 1.28s                          
+Max : 1.31s                          
+0 message has been missed

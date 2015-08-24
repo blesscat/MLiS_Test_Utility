@@ -1,0 +1,198 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AverageTime	UDPserver.py	/^AverageTime = []$/;"	v
+AverageTime	server_V1.0.py	/^AverageTime = []$/;"	v
+AverageTime	server_nonsent.py	/^    AverageTime = []$/;"	v
+Data	UDPclient.py	/^    Data = b'123>this is a loop test'$/;"	v
+Data	client.py	/^    Data = b'123>this is a loop test'$/;"	v
+Data	server_bak.py	/^    Data = data.find(d'>')$/;"	v
+FileName	UDPserver.py	/^FileName = time.strftime('%Y-%m-%d-%H%M%S_log')$/;"	v
+FileName	server_V1.0.py	/^FileName = time.strftime('%Y-%m-%d-%H%M%S_log')$/;"	v
+HOST	UDPclient.py	/^HOST = '192.168.0.179'   # The remote host$/;"	v
+HOST	UDPserver.py	/^HOST = '192.168.0.179'$/;"	v
+HOST	client.py	/^HOST = '192.168.0.179'   # The remote host$/;"	v
+HOST	server.py	/^    HOST = '192.168.0.185'$/;"	v	class:terminal_test
+HOST	server_0623.py	/^    HOST = '192.168.0.179'$/;"	v
+HOST	server_0731bak.py	/^    HOST = '192.168.0.185'$/;"	v	class:terminal_test
+HOST	server_0803bak.py	/^    HOST = '192.168.0.185'$/;"	v	class:terminal_test
+HOST	server_0807bak.py	/^    HOST = '192.168.0.185'$/;"	v	class:terminal_test
+HOST	server_V1.0.py	/^HOST = '192.168.0.179'$/;"	v
+HOST	server_bak.py	/^HOST = 'localhost'$/;"	v
+HOST	server_nonsent.py	/^    HOST = '192.168.0.179'$/;"	v
+HOST	server_old.py	/^    HOST = '192.168.0.179'$/;"	v	class:StressTest
+HOST	stability_test.py	/^    HOST = '192.168.0.179'$/;"	v	class:terminal_test
+HOST	stress_test.py	/^    HOST = '192.168.0.185'$/;"	v	class:terminal_test
+HOST	stress_test_bak0717.py	/^    HOST = '192.168.0.179'$/;"	v
+HOST	terminal_test.py	/^    HOST = '192.168.0.179'$/;"	v	class:terminal_test
+Loop	server.py	/^    Loop = 50          #total testing times$/;"	v	class:terminal_test
+Loop	server_0731bak.py	/^    Loop = 50          #total testing times$/;"	v	class:terminal_test
+Loop	server_0803bak.py	/^    Loop = 50          #total testing times$/;"	v	class:terminal_test
+Loop	server_0807bak.py	/^    Loop = 50          #total testing times$/;"	v	class:terminal_test
+MessageDict	UDPserver.py	/^MessageDict = 'abcdefghijklmnopqrstuvwxyz'$/;"	v
+MessageDict	server_V1.0.py	/^MessageDict = 'abcdefghijklmnopqrstuvwxyz'$/;"	v
+MessageDict	server_bak.py	/^MessageDict = 'abcdefghijklmnopqrstuywxyz'$/;"	v
+MsgCount	UDPserver.py	/^MsgCount = 0$/;"	v
+MsgCount	server_V1.0.py	/^        MsgCount = 0$/;"	v
+MsgCount	server_V1.0.py	/^MsgCount = 0$/;"	v
+MsgCount	server_bak.py	/^        MsgCount = 0$/;"	v
+MsgCount	server_bak.py	/^MsgCount = 0$/;"	v
+MsgCount	server_nonsent.py	/^    MsgCount = 0$/;"	v
+MsgLen	UDPserver.py	/^MsgLen = 0$/;"	v
+MsgLen	server_V1.0.py	/^    MsgLen = len(SendMsg)$/;"	v
+MsgLen	server_V1.0.py	/^MsgLen = 0$/;"	v
+MsgLen	server_bak.py	/^    MsgLen = len(SendMsg)$/;"	v
+MsgLen	server_bak.py	/^MsgLen = 0$/;"	v
+MsgLen	server_nonsent.py	/^    MsgLen = 0$/;"	v
+PORT	UDPclient.py	/^PORT = int(sys.argv[1])       # The same port as used by the server$/;"	v
+PORT	UDPserver.py	/^PORT = 21000$/;"	v
+PORT	client.py	/^PORT = int(sys.argv[1])       # The same port as used by the server$/;"	v
+PORT	server_0623.py	/^    PORT = 21000$/;"	v
+PORT	server_V1.0.py	/^PORT = 21000$/;"	v
+PORT	server_bak.py	/^PORT = 50007$/;"	v
+PORT	server_old.py	/^    PORT = 21000$/;"	v	class:StressTest
+RInterval	UDPserver.py	/^RInterval = []$/;"	v
+RInterval	server_V1.0.py	/^RInterval = []$/;"	v
+RInterval	server_nonsent.py	/^    RInterval = []$/;"	v
+ReceiveMSG	server_old.py	/^    def ReceiveMSG(self):$/;"	m	class:StressTest
+ReceiveMsg	server_nonsent.py	/^def ReceiveMsg():$/;"	f
+ReceiveMsgTimeout	UDPserver.py	/^ReceiveMsgTimeout = 20$/;"	v
+ReceiveMsgTimeout	server.py	/^    ReceiveMsgTimeout = 10$/;"	v	class:terminal_test
+ReceiveMsgTimeout	server_0623.py	/^    ReceiveMsgTimeout = 3$/;"	v
+ReceiveMsgTimeout	server_0731bak.py	/^    ReceiveMsgTimeout = 10$/;"	v	class:terminal_test
+ReceiveMsgTimeout	server_0803bak.py	/^    ReceiveMsgTimeout = 10$/;"	v	class:terminal_test
+ReceiveMsgTimeout	server_0807bak.py	/^    ReceiveMsgTimeout = 10$/;"	v	class:terminal_test
+ReceiveMsgTimeout	server_V1.0.py	/^ReceiveMsgTimeout = 3$/;"	v
+ReceiveMsgTimeout	server_nonsent.py	/^    ReceiveMsgTimeout = 3$/;"	v
+ReceiveMsgTimeout	server_old.py	/^    ReceiveMsgTimeout = 3$/;"	v	class:StressTest
+ReceiveMsgTimeout	stability_test.py	/^    ReceiveMsgTimeout = 30$/;"	v	class:terminal_test
+ReceiveMsgTimeout	stress_test.py	/^    ReceiveMsgTimeout = 30$/;"	v	class:terminal_test
+ReceiveMsgTimeout	stress_test_bak0717.py	/^    ReceiveMsgTimeout = 30$/;"	v
+ReceiveMsgTimeout	terminal_test.py	/^    ReceiveMsgTimeout = 30$/;"	v	class:terminal_test
+SendMSG	server_old.py	/^    def SendMSG(self):$/;"	m	class:StressTest
+SendMsg	server_V1.0.py	/^    SendMsg = (message.encode('ascii'))$/;"	v
+SendMsg	server_bak.py	/^    SendMsg = (message.encode('ascii'))$/;"	v
+SendMsg	server_nonsent.py	/^    SendMsg = b'this is a loop test'$/;"	v
+SortMSG	server_old.py	/^    def SortMSG(self,x):$/;"	m	class:StressTest
+StartMsg	server_V1.0.py	/^StartMsg = conn.recv(1024)$/;"	v
+StatusBar	GUI.py	/^class StatusBar(tk.Frame):   $/;"	c
+StressTest	server_0623.py	/^def StressTest():$/;"	f
+StressTest	server_0624.py	/^def StressTest():$/;"	f
+StressTest	server_bak_150611.py	/^def StressTest():$/;"	f
+StressTest	server_old.py	/^class StressTest:$/;"	c
+StressTest	stress_test_bak0717.py	/^def StressTest():$/;"	f
+TempFormat	server_V1.0.py	/^                TempFormat = "Received: {0}".format(data)$/;"	v
+TempFormat	server_V1.0.py	/^        TempFormat = "Received: {0} ,{1:.3}sec".format(data, t)$/;"	v
+TestLen	UDPserver.py	/^TestLen = 512            #total testing times$/;"	v
+TestLen	server_0623.py	/^    TestLen = 10            #total testing times$/;"	v
+TestLen	server_V1.0.py	/^TestLen = 512            #total testing times$/;"	v
+TestLen	server_nonsent.py	/^    TestLen = 10            #total testing times$/;"	v
+TestLen	server_old.py	/^    TestLen = 10             #total testing times$/;"	v	class:StressTest
+TestLen	stability_test.py	/^    TestLen = 2000          #total testing times$/;"	v	class:terminal_test
+TestLen	stress_test.py	/^    TestLen = 2000          #total testing times$/;"	v	class:terminal_test
+TestLen	stress_test_bak0717.py	/^    TestLen = 2000          #total testing times$/;"	v
+TestLen	terminal_test.py	/^    TestLen = 2000          #total testing times$/;"	v	class:terminal_test
+TotalTime	server_V1.0.py	/^TotalTime = 0$/;"	v
+Variable	UDPserver.py	/^Variable = {}$/;"	v
+Variable	server_V1.0.py	/^Variable = {}$/;"	v
+Variable	server_nonsent.py	/^    Variable = {}$/;"	v
+WaitingForSecond	server_V1.0.py	/^            WaitingForSecond = select.select([conn], [], [], ReceiveMsgTimeout)$/;"	v
+WaitingForSecond	server_V1.0.py	/^    WaitingForSecond = select.select([conn], [], [], ReceiveMsgTimeout)$/;"	v
+__init__	GUI.py	/^    def __init__(self, master):$/;"	m	class:StatusBar
+__init__	server.py	/^    def __init__(self):$/;"	m	class:terminal_test
+__init__	server_0731bak.py	/^    def __init__(self):$/;"	m	class:terminal_test
+__init__	server_0803bak.py	/^    def __init__(self):$/;"	m	class:terminal_test
+__init__	server_0807bak.py	/^    def __init__(self):$/;"	m	class:terminal_test
+__init__	server_old.py	/^    def __init__(self):$/;"	m	class:StressTest
+__init__	stability_test.py	/^    def __init__(self):$/;"	m	class:terminal_test
+__init__	stress_test.py	/^    def __init__(self):$/;"	m	class:terminal_test
+__init__	terminal_test.py	/^    def __init__(self):$/;"	m	class:terminal_test
+callback	server.py	/^            def callback():$/;"	f	function:terminal_test.disconnect
+callback	server.py	/^            def callback():$/;"	f	function:terminal_test.main
+callback	server_0731bak.py	/^            def callback():$/;"	f	function:terminal_test.main
+callback	server_0803bak.py	/^            def callback():$/;"	f	function:terminal_test.main
+callback	server_0807bak.py	/^            def callback():$/;"	f	function:terminal_test.disconnect
+callback	server_0807bak.py	/^            def callback():$/;"	f	function:terminal_test.main
+create_conn	server_old.py	/^    def create_conn(self):$/;"	m	class:StressTest
+d	GUI.py	/^d=StatusBar(root)$/;"	v
+data	server_V1.0.py	/^                data = conn.recv(1024)$/;"	v
+data	server_V1.0.py	/^        data = conn.recv(1024)$/;"	v
+data	server_V1.0.py	/^        data = data[data.find(b'>') + 1 :]$/;"	v
+data	server_bak.py	/^    data = conn.recv(1024)$/;"	v
+data	server_bak.py	/^    data = data[Data:]$/;"	v
+disconnect	server.py	/^    def disconnect(self, conn, id_):$/;"	m	class:terminal_test
+disconnect	server_0807bak.py	/^    def disconnect(self, conn, id_):$/;"	m	class:terminal_test
+f	UDPserver.py	/^f = open('log' + '\/' + FileName, 'w')$/;"	v
+f	server_V1.0.py	/^f = open('log' + '\/' + FileName, 'w')$/;"	v
+i	client.py	/^i = 0$/;"	v
+loop	server_nonsent.py	/^    loop = 1$/;"	v
+main	server.py	/^    def main(self):$/;"	m	class:terminal_test
+main	server_0731bak.py	/^    def main(self):$/;"	m	class:terminal_test
+main	server_0803bak.py	/^    def main(self):$/;"	m	class:terminal_test
+main	server_0807bak.py	/^    def main(self):$/;"	m	class:terminal_test
+main	server_old.py	/^    def main(self):$/;"	m	class:StressTest
+max_bytes	server.py	/^    max_bytes = 1024$/;"	v	class:terminal_test
+max_bytes	server_0731bak.py	/^    max_bytes = 1024$/;"	v	class:terminal_test
+max_bytes	server_0803bak.py	/^    max_bytes = 1024$/;"	v	class:terminal_test
+max_bytes	server_0807bak.py	/^    max_bytes = 1024$/;"	v	class:terminal_test
+message	UDPserver.py	/^message = ''$/;"	v
+message	server_V1.0.py	/^    message = message + MessageDict[MsgCount]$/;"	v
+message	server_V1.0.py	/^message = ''$/;"	v
+message	server_bak.py	/^    message = message + MessageDict[MsgCount]$/;"	v
+message	server_bak.py	/^message = ''$/;"	v
+message	server_nonsent.py	/^    message = ''$/;"	v
+min_bytes	server.py	/^    min_bytes = 800$/;"	v	class:terminal_test
+min_bytes	server_0731bak.py	/^    min_bytes = 800$/;"	v	class:terminal_test
+min_bytes	server_0803bak.py	/^    min_bytes = 800$/;"	v	class:terminal_test
+min_bytes	server_0807bak.py	/^    min_bytes = 800$/;"	v	class:terminal_test
+nonsendserver	stability_test.py	/^    def nonsendserver(self):$/;"	m	class:terminal_test
+nonsendserver	stress_test.py	/^    def nonsendserver(self):$/;"	m	class:terminal_test
+nonsendserver	stress_test_bak0717.py	/^def nonsendserver():$/;"	f
+nonsendserver	terminal_test.py	/^    def nonsendserver(self):$/;"	m	class:terminal_test
+number_of_servers	server.py	/^    number_of_servers = 5$/;"	v	class:terminal_test
+number_of_servers	server_0731bak.py	/^    number_of_servers = 5$/;"	v	class:terminal_test
+number_of_servers	server_0803bak.py	/^    number_of_servers = 5$/;"	v	class:terminal_test
+number_of_servers	server_0807bak.py	/^    number_of_servers = 5$/;"	v	class:terminal_test
+number_of_servers	stability_test.py	/^    number_of_servers = 5$/;"	v	class:terminal_test
+number_of_servers	stress_test.py	/^    number_of_servers = 5$/;"	v	class:terminal_test
+number_of_servers	stress_test_bak0717.py	/^    number_of_servers = 5$/;"	v
+number_of_servers	terminal_test.py	/^    number_of_servers = 5$/;"	v	class:terminal_test
+printlog	server.py	/^    def printlog(self, filename, Print_format):$/;"	m	class:terminal_test
+printlog	server_0624.py	/^def printlog(FileName, Print_format):$/;"	f
+printlog	server_0731bak.py	/^    def printlog(self, filename, Print_format):$/;"	m	class:terminal_test
+printlog	server_0803bak.py	/^    def printlog(self, filename, Print_format):$/;"	m	class:terminal_test
+printlog	server_0807bak.py	/^    def printlog(self, filename, Print_format):$/;"	m	class:terminal_test
+printlog	stability_test.py	/^    def printlog(self, filename, Print_format):$/;"	m	class:terminal_test
+printlog	stress_test.py	/^    def printlog(self, filename, Print_format):$/;"	m	class:terminal_test
+printlog	stress_test_bak0717.py	/^def printlog(filename, Print_format):$/;"	f
+printlog	terminal_test.py	/^    def printlog(self, filename, Print_format):$/;"	m	class:terminal_test
+receive_server	server.py	/^        def receive_server():$/;"	f	function:terminal_test.stability_test
+receive_server	server_0731bak.py	/^        def receive_server():$/;"	f	function:terminal_test.stability_test
+receive_server	server_0803bak.py	/^        def receive_server():$/;"	f	function:terminal_test.stability_test
+receive_server	server_0807bak.py	/^        def receive_server():$/;"	f	function:terminal_test.stability_test
+root	GUI.py	/^root=tk.Tk()$/;"	v
+s	UDPclient.py	/^s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)$/;"	v
+s	UDPserver.py	/^s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)$/;"	v
+s	client.py	/^s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)$/;"	v
+s	server_V1.0.py	/^s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)$/;"	v
+s	server_bak.py	/^s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)$/;"	v
+s	server_nonsent.py	/^    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)$/;"	v
+s	server_old.py	/^    s = StressTest()$/;"	v	class:StressTest
+stability_test	server.py	/^    def stability_test(self,wait,id_):$/;"	m	class:terminal_test
+stability_test	server_0731bak.py	/^    def stability_test(self,wait,id_):$/;"	m	class:terminal_test
+stability_test	server_0803bak.py	/^    def stability_test(self,wait,id_):$/;"	m	class:terminal_test
+stability_test	server_0807bak.py	/^    def stability_test(self,wait,id_):$/;"	m	class:terminal_test
+stability_test	stability_test.py	/^    def stability_test(self):$/;"	m	class:terminal_test
+stability_test	stress_test.py	/^    def stability_test(self):$/;"	m	class:terminal_test
+stability_test	terminal_test.py	/^    def stability_test(self):$/;"	m	class:terminal_test
+t	server_V1.0.py	/^        t = RInterval[-1] - RInterval[-2]$/;"	v
+terminal_test	server.py	/^class terminal_test:$/;"	c
+terminal_test	server_0731bak.py	/^class terminal_test:$/;"	c
+terminal_test	server_0803bak.py	/^class terminal_test:$/;"	c
+terminal_test	server_0807bak.py	/^class terminal_test:$/;"	c
+terminal_test	stability_test.py	/^class terminal_test:$/;"	c
+terminal_test	stress_test.py	/^class terminal_test:$/;"	c
+terminal_test	terminal_test.py	/^class terminal_test:$/;"	c
